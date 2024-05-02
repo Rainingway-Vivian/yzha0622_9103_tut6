@@ -4,6 +4,7 @@
 ### Part 1: Imaging Technique Inspiration
 
 [Resource: a video introducing Rhine Lab in the game *Arknights*.](https://www.youtube.com/watch?v=-_HeLFGCw7M)
+
 The art style of this video is composed of simple graphics, lines and concise and straightforward 3D models, which are informative and inspiring and very similar to the works of Nasreen Mohamedi.
 Many parts of the video animate simple points, lines and blocks, making them more flexible through rotation, translation and flashing. For example, the logo display at the beginning **(Figure 1)**, the animation of permission authorized **(Figure 2)**, etc. There are also many processes such as projection, blurring and transparency changes, which give flat things a 3D effect **(Figure 3)**.
 
@@ -17,7 +18,9 @@ Many parts of the video animate simple points, lines and blocks, making them mor
 >**Figure 3** - Department Introduction
 ---
 ### Part 2: Coding Technique Exploration
+
 [Resource: "Intertwined" by Joe DeNavas (DD89) from p5.js Tutorials](https://openprocessing.org/sketch/2187000)
+
 ```js
 let timer=0
 
